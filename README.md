@@ -3,7 +3,8 @@ An implementation of Conway's Game of Life in Excel VBA.
 
 ## Usage
 1. Open game-of-life.xlsm.
-1. If "SECURITY WARNING" is displayed, push the "Enable Content" button.
+1. If the "PROTECTED VIEW" alert is displayed, push the "Enable Editing" button.
+1. If the "SECURITY WARNING" alert is also displayed, push the "Enable Content" button.
 1. Then, push the "START" button to start a simulation. 
 
 - Click or double click on cells to fill in light blue.
