@@ -83,6 +83,8 @@ label1:
                 Or CheckBox7.Value = True And ii = 7 _
                 Or CheckBox8.Value = True And ii = 8 Then
                 ce(i.Row, i.Column) = "."
+            Else
+                ce(i.Row, i.Column) = ""
             End If
         Else
             If CheckBox9.Value = True And ii = 1 _
