@@ -1,10 +1,10 @@
 # game-of-life
 An implementation of Conway's Game of Life in Excel VBA.
 
+![GIF](https://user-images.githubusercontent.com/25865313/27192246-942392f4-5235-11e7-9bb1-d1ad0f52fce4.gif)
+
 ## Usage
 1. Open game-of-life.xlsm.
-1. If the "PROTECTED VIEW" alert is displayed, push the "Enable Editing" button.
-1. If the "SECURITY WARNING" alert is also displayed, push the "Enable Content" button.
 1. Then, push the "START" button to start a simulation. 
 
 - Click or double click on cells to fill in light blue.
@@ -12,6 +12,8 @@ An implementation of Conway's Game of Life in Excel VBA.
 - You can select multiple cells. If the cell at the upper-left of the selected range is off, all of the selected cells is switched on. Otherwise, switched off.
 - Push the "CLEAR" button to empty all of the cells.
 - The rules can be changed by switching on or off the checkboxes.
+- If the "PROTECTED VIEW" alert is displayed, push the "Enable Editing" button.
+- If the "SECURITY WARNING" alert is also displayed, push the "Enable Content" button.
 
 ## What's Conway's Game of Life?
 It's a simulation game of real life processes. It follows the rules below.
