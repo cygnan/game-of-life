@@ -1,9 +1,25 @@
 # game-of-life
+
 An implementation of Conway's Game of Life in Excel VBA.
 
 ![GIF](https://user-images.githubusercontent.com/25865313/27192246-942392f4-5235-11e7-9bb1-d1ad0f52fce4.gif)
 
+## What's Conway's Game of Life?
+
+It's a simulation game of real life processes. It follows the rules below.
+
+### Rules
+
+> All eight of the cells surrounding the current one are checked to see if they are on or not. Any cells that are on are counted, and this count is then used to determine what will happen to the current cell.
+>
+>1. Death: if the count is less than 2 or greater than 3, the current cell is switched off.
+>1. Survival: if (a) the count is exactly 2, or (b) the count is exactly 3 and the current cell is on, the current cell is left unchanged.
+>1. Birth: if the current cell is off and the count is exactly 3, the current cell is switched on.
+
+Quoted from [Wolfram MathWorld](http://mathworld.wolfram.com/GameofLife.html).
+
 ## Usage
+
 1. Open game-of-life.xlsm.
 1. Then, push the "START" button to start a simulation. 
 
@@ -15,18 +31,7 @@ An implementation of Conway's Game of Life in Excel VBA.
 - If the "PROTECTED VIEW" alert is displayed, push the "Enable Editing" button.
 - If the "SECURITY WARNING" alert is also displayed, push the "Enable Content" button.
 
-## What's Conway's Game of Life?
-It's a simulation game of real life processes. It follows the rules below.
-
-### Rules
-> All eight of the cells surrounding the current one are checked to see if they are on or not. Any cells that are on are counted, and this count is then used to determine what will happen to the current cell.
->
->1. Death: if the count is less than 2 or greater than 3, the current cell is switched off.
->1. Survival: if (a) the count is exactly 2, or (b) the count is exactly 3 and the current cell is on, the current cell is left unchanged.
->1. Birth: if the current cell is off and the count is exactly 3, the current cell is switched on.
-
-Quoted from [Wolfram MathWorld](http://mathworld.wolfram.com/GameofLife.html).
-
 ## License
+
 Copyright &copy; 2017 Cygnan  
 Licensed under the MIT License, see [LICENSE.md](LICENSE.md).
