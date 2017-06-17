@@ -4,7 +4,7 @@
 [![GitHub pull requests](https://img.shields.io/github/issues-pr/cygnan/game-of-life.svg?style=flat)](https://github.com/cygnan/game-of-life/pulls)
 [![Download](https://img.shields.io/badge/download-the&nbsp;xlsm&nbsp;file-00c0f0.svg?style=flat)](https://github.com/cygnan/game-of-life/raw/master/game-of-life.xlsm)
 
-An implementation of Conway's Game of Life in Excel VBA.
+Implementation of Conway's Game of Life in Excel VBA.
 
 ![GIF](https://user-images.githubusercontent.com/25865313/27192246-942392f4-5235-11e7-9bb1-d1ad0f52fce4.gif)
 
