@@ -1,5 +1,9 @@
 # game-of-life
 
+[![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](LICENSE.md)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/cygnan/game-of-life.svg?style=flat)](https://github.com/cygnan/game-of-life/pulls)
+[![Download](https://img.shields.io/badge/download-Xlsm&nbsp;file-red.svg?style=flat)](https://github.com/cygnan/game-of-life/raw/master/game-of-life.xlsm)
+
 An implementation of Conway's Game of Life in Excel VBA.
 
 ![GIF](https://user-images.githubusercontent.com/25865313/27192246-942392f4-5235-11e7-9bb1-d1ad0f52fce4.gif)
