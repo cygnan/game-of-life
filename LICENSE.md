@@ -1,4 +1,5 @@
 # game-of-life
+
 MIT License
 
 Copyright (c) 2017 Cygnan
@@ -23,6 +24,7 @@ SOFTWARE.
 
 
 # Ariawase
+
 Copyright (c) 2011-2017 igeta
 
 Permission is hereby granted, free of charge, to any person obtaining a
