@@ -30,7 +30,7 @@ Quoted from [Wolfram MathWorld](http://mathworld.wolfram.com/GameofLife.html).
 
 - Click or double click on cells to fill in light blue.
 - Right click to empty. 
-- You can select multiple cells. If the cell at the upper-left of the selected range is off, all of the selected cells is switched on. Otherwise, switched off.
+- You can select multiple cells. If the cell at the upper-left of the selected range was off, all of the selected cells will be switched on. Otherwise, switched off.
 - Push the "CLEAR" button to empty all of the cells.
 - The rules can be changed by switching on or off the checkboxes.
 - If the "PROTECTED VIEW" alert is displayed, push the "Enable Editing" button.
