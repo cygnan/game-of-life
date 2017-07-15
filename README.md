@@ -1,8 +1,6 @@
 # game-of-life
 
 [![MIT License](http://img.shields.io/badge/license-MIT-cccc00.svg?style=flat)](LICENSE.md)
-[![GitHub pull requests](https://img.shields.io/github/issues-pr/cygnan/game-of-life.svg?style=flat)](https://github.com/cygnan/game-of-life/pulls)
-[![GitHub issues](https://img.shields.io/github/issues/cygnan/game-of-life.svg?style=flat)](https://github.com/cygnan/game-of-life/issues)
 [![Download](https://img.shields.io/badge/download-the&nbsp;xlsm&nbsp;file-00c0f0.svg?style=flat)](https://github.com/cygnan/game-of-life/raw/master/game-of-life.xlsm)
 
 Implementation of Conway's Game of Life in Excel VBA.
@@ -35,6 +33,14 @@ Quoted from [Wolfram MathWorld](http://mathworld.wolfram.com/GameofLife.html).
 - The rules can be changed by switching on or off the checkboxes.
 - If the "PROTECTED VIEW" alert is displayed, push the "Enable Editing" button.
 - If the "SECURITY WARNING" alert is also displayed, push the "Enable Content" button.
+
+## Contribution
+
+1. Fork it
+1. Create your feature branch
+1. Commit your changes
+1. Push to the branch
+1. Create a new Pull Request
 
 ## License
 
