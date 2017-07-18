@@ -23,7 +23,7 @@ Quoted from [Wolfram MathWorld](http://mathworld.wolfram.com/GameofLife.html).
 
 ## Usage
 
-1. Open game-of-life.xlsm.
+1. Open [game-of-life.xlsm](https://github.com/cygnan/game-of-life/raw/master/game-of-life.xlsm).
 1. Then, push the "START" button to start a simulation. 
 
 - Click or double click on cells to fill in light blue.
