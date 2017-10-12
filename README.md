@@ -36,11 +36,7 @@ Quoted from [Wolfram MathWorld](http://mathworld.wolfram.com/GameofLife.html).
 
 ## Contribution
 
-1. Fork it.
-1. Create your feature branch.
-1. Commit your changes.
-1. Push to the branch.
-1. Create a new Pull Request.
+You can open issues or submit pull requests for bugs you've found. See [CONTRIBUTING.md](CONTRIBUTING.md) for further details.
 
 ## License
 
