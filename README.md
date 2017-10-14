@@ -36,7 +36,7 @@ Quoted from [Wolfram MathWorld](http://mathworld.wolfram.com/GameofLife.html).
 
 ## Contribution
 
-You can open issues or submit pull requests for bugs you've found. See [CONTRIBUTING.md](CONTRIBUTING.md) for further details.
+You can open issues or submit pull requests for bugs you've found.
 
 ## License
 
